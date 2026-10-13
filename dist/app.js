@@ -150,7 +150,7 @@
   }
 
   function isSonicFilmSlide() {
-    return slides[current]?.dataset.slide === '12';
+    return slides[current]?.dataset.slide === '13';
   }
 
   function fadeMusicTo(target, duration = 700) {
